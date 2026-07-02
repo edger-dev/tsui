@@ -1,0 +1,2 @@
+{kind root, id fa2a055fd908113ba24363a544d9b43f25d32bc58f7f1619a9b811d3d2f8b7a7, parents (), ts 2026-07-02T08:46:56.764333224Z, author "YJ Park", provenance commit}
+{id eddbedf4f94941222db5184ce1d548462dce952333a02250a657ed3ad01d15a3, version eddbedf4f94941222db5184ce1d548462dce952333a02250a657ed3ad01d15a3, kind commit-archive, metadata {name rules-commit-archive}, note "", pin false, head_ts 2026-07-02T08:46:56.764333224Z, parents ()}
